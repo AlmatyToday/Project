@@ -1,0 +1,25 @@
+                                                    Lab-5: Use case Analysis 
+                                              A3_ex1
+Software Requirements Document for Locally Shared Calendar
+
+                              Author: Group NST
+
+South company
+Team member: 
+Erbol Arynbek 140107038
+Slamkul Beknur 130107008
+Zhiyenbay Symbat 130107034
+Ziyat Bekbol 130107068
+
+Problems:
+1.Choose 8 use cases (i.e. 2 per team member) from assignment 2 
+But in our example not 8 use cases not full
+2.Brief description of the use case – include the goal (two or three sentences)
+For 2.2.1, 2.2.2, 2.2.3, 2.2.4 only one description not fully we have to include the goal two or three sentences
+3. Not  Alternate flows in example A3_ex1
+
+
+Features
+1.Parsing algorithm
+2.Create database to save information
+
