@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Алматы сегодня</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_news">Новости</string>
+    <string name="title_activity_tab1">Все материалы</string>
+    <string name="title_activity_tab2">Политика</string>
+    <string name="title_activity_tab3">Общество</string>
+    <string name="title_activity_collections">Закладки</string>
+
+
+
+    <string name="title_activity_message">Отправить письмо</string>
+</resources>
